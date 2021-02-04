@@ -13,6 +13,7 @@
 # limitations under the License.
 
 import time
+import os
 import requests
 import logging
 from kubernetes import client, config
